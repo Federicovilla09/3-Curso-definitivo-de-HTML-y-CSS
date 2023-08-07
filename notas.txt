@@ -1,0 +1,71 @@
+1 - Clase
+
+Frontend: desarrollador que maneja el navejador(cliente)
+Html, css y js
+
+2 - Clase
+
+Backend: trabaja del lado del servidor, maneja toda la logica que existe detras de una peticion dada por el navegador.
+
+
+3- Clase
+
+Full stack: es un término utilizado para describir a los desarrolladores que conocen tanto los lenguajes de frontend como de backend. Principalmente, el desarrollo full stack se refiere al uso de JavaScript en el backend y de HTML/CSS/JavaScript en el frontend para crear nuevas plataformas.
+
+4 - Clase
+
+Páginas Estáticas vs. Dinámicas
+
+Sitos Web Estáticos
+La información que contiene se mantiene constante y estática. No se actualiza con la interacción del usuario. Es conveniente para realizar landing pages (páginas informativas o de aterrizaje) o blogs. Se mostrarán siempre iguales para todos los usuarios.
+
+5 - Clase
+
+Sitios Web Dinámicos
+También conocidos como aplicaciones web, actualizan su información con respecto a la interacción del usuario. Dependen de una base de datos, de donde extrae e ingresa información. Serán diferentes, dependiendo del usuario que la use y la información que se ingrese.
+
+6 - Clase
+
+HTML (HyperText Markup Language) es un lenguaje de marcado de texto. Se utiliza para darle una estructura al sitio web que estás visitando.
+
+Estructura básica de HTML en una página Web
+Container: contenedor principal
+Header: cabecera de la página. Aquí usualmente encuentras el logo y el menú de navegación del sitio.
+Main content: estructura principal. Por ejemplo, el feed o lista de publicaciones de una red social.
+Sidebar: contenido secundario de una página, que usualmente se encuentra a los lados del contenido principal (o main).
+Footer: pie de página. Esto se encuentra al fondo del sitio web, salvo en casos de sitios web donde el scroll (o navegación hacia abajo) es infinito, por ende, no tendría sentido ponerlo al fondo.
+
+11 Clase
+
+Tipos de imágenes
+
+Las imágenes representan una pieza fundamental al momento de mostrar contenido para web. Aquí conoceremos los principales tipos de imágenes web y sus formatos.
+
+Tipos de imágenes para web
+Lossless (sin pérdida):
+Capturan todos los datos del archivo original.
+No se pierde nada del archivo original.
+Puede comprimirse, pero podrá reconstruir su imagen al estado original
+Lossy (con pérdida):
+Se aproximan a su imagen original.
+Podría reducir la cantidad de colores en su imagen o analizar la imagen en busca de datos innecesarios.
+Por consiguiente puede reducir su tamaño, lo que mejora el tiempo de carga de la página, pero pierde su calidad.
+Los archivos tipo lossy son mucho más livianos que los archivos tipo lossless, por lo que son ideales para usar en sitios en donde el tamaño del archivo y la velocidad de descarga son importantes.
+
+
+Formatos de imagen para web
+GIF (Graphics Interchange Format): Formato de imagen sin pérdida, no se puede comprimir
+PNG 8 (Portable Network Graphics): Formato de imagen sin pérdida, uso de colores de 256, se utiliza para logotipos e iconos para la página.
+PNG 24 (Portable Network Graphics): Formato de imagen sin pérdida, utilización de colores ilimitados, alta calidad, si intentamos comprimir no ayudará demasiado por la gran cantidad de colores.
+JPG / JPEG (Photographic Experts Group): Formato de imagen con pérdida, perdemos calidad a la hora de comprimirlas, pero llegan a ser óptimas para la carga en la página web.
+SVG - Vector (Scalable Vector Graphics): Formato de imagen muy ligero sin pérdida, con svg no perdemos calidad, ya que está compuesta por vectores.
+WebP: Es un formato gráfico en forma de contenedor que sustenta tanto compresión con pérdida como sin ella. ​​Fue desarrollado por Google.
+
+12 - Clase
+
+Optimización de imágenes
+Promedio para subir una imagen es de 70kb
+
+HTML semantico
+
+

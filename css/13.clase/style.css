@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.parent {
+  border: 2px dotted blue;
+  display: inline-block;
+}
+
+.box {
+  display: inline-block;
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+
+#two, #four {
+  background-color: yellow;
+  position: relative;
+  top: 10px;
+}

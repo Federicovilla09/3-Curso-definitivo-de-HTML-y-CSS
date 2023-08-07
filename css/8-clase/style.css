@@ -1,0 +1,11 @@
+/* div pader de p */
+
+div > p {
+  color: rebeccapurple;
+}
+
+/* descendiente */
+
+section p {
+  color: red;
+}

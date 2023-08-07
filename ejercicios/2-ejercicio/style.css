@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: inline-block;
+}
+
+.titulo {
+  background-color: darkkhaki;
+  color: black;
+  width: 300px;
+  text-align: center;
+  margin-left: 120px;
+  border-radius: 10px;
+  padding: 10px;
+  position: relative;
+  top: 24px;
+}
+
+.parrafo {
+  background-color: powderblue;
+  color: black;
+  width: 340px;
+  height: 180px;
+  text-align: center;
+  margin-left: 100px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.parrafo p {
+  margin-top: 40px;
+}

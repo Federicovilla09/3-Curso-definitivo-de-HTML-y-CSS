@@ -1,0 +1,6 @@
+/* etiqueta de parrafo que este cerca de h2, hermano cercano */
+h2 + p { 
+  color: red;
+}
+
+
